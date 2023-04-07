@@ -1,5 +1,5 @@
 # AG_Portfolio
-Collection of Data Analysis Projects.
+Collection of Data Analysis Projects and Dashboards.
 
 # [Project 1: Data Analysis of Amazon Prime Movies and TV Shows](https://github.com/ag289/Amazon_shows_analysis)
 * Collected and cleaned data regarding Amazon prime Movies and Shows.
