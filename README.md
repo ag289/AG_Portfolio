@@ -4,7 +4,7 @@ Collection of Data Analysis Projects and Dashboards.
 # [Project 1: Data Analysis of Amazon Prime Movies and TV Shows in Python](https://github.com/ag289/Amazon_shows_analysis/blob/main/Amazon_Shows.ipynb)
 * Collected and cleaned data regarding Amazon prime Movies and Shows.
 * Created Visualizations to show relationships and answer research questions.
-* Presented the data and explain the signifance of each question.
+* Presented the data and explain the significance of each question.
 * Used pandas and matplotlib to clean data and create visualizations. 
 * Used sklearn to create a regression model
 
