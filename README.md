@@ -1,7 +1,7 @@
 # AG_Portfolio
 Collection of Data Analysis Projects and Dashboards.
 
-# [Project 1: Data Analysis of Amazon Prime Movies and TV Shows in Python](https://github.com/ag289/Amazon_shows_analysis/blob/main/Amazon_Shows.ipynb)
+# [Project 1: Data Analysis of Amazon Prime Movies and TV Shows in Python](https://github.com/ag289/Amazon_shows_analysis)
 * Collected and cleaned data regarding Amazon prime Movies and Shows.
 * Created Visualizations to show relationships and answer research questions.
 * Presented the data and explain the significance of each question.
